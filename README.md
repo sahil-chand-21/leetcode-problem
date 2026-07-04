@@ -19,4 +19,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0189-rotate-array/) | Medium |
+| [2235-add-two-integers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
