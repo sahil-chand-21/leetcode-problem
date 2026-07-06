@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0283-move-zeroes/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
