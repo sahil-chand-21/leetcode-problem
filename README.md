@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0189-rotate-array/) | Medium |
@@ -37,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0136-single-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
