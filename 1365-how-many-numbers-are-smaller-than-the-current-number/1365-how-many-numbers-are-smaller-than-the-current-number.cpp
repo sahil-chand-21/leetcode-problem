@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
+        // brute force approach  time complexity is 0(n^2)
         int n= nums.size();
         vector<int>ans(n);
         for(int i=0;i<n;i++){
