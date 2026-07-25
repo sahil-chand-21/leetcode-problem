@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0189-rotate-array/) | Medium |
 | [2235-add-two-integers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2469-convert-the-temperature/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
