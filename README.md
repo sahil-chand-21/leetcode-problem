@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1929-concatenation-of-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0189-rotate-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [2235-add-two-integers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2469-convert-the-temperature/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting Sort
