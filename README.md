@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0344-reverse-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,11 +59,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
