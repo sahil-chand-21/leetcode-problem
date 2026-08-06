@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2469-convert-the-temperature/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -102,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
