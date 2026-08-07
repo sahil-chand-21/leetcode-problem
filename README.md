@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2235-add-two-integers/) | Easy |
@@ -56,17 +58,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0268-missing-number/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3731-find-missing-elements](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3731-find-missing-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -107,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
