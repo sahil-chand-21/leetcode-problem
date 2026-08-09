@@ -8,10 +8,10 @@ public:
         //[0,1,2]
         string first =strs[0];
         string last =strs[strs.size()-1];// first or last check kr rhe kyuki hame check krna hy kaha se differ kr rha kyuki sorting me to lg gye hy na f..., f...... f...k
-        int n =min(first.size(),last.size());
+
         string ans ="";
-        for(int i=0;i<n;i++ ){
-            if( first[i]!=last[i]){
+        for(int i=0;i<first.size();i++ ){ // till first elem kyuki ham dhekna chahte ki isme saare elem ho
+            if( first[i]!=last[i] || i>=last.size()){ // agr second string khtm ho gyi to error na ay
                 break;
             }
             ans=ans+first[i];
