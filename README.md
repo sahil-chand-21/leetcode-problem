@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-convert-the-temperature](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2469-convert-the-temperature/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3870-count-commas-in-range](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3870-count-commas-in-range/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
