@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0058-length-of-last-word/) | Easy |
 | [0344-reverse-string](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0344-reverse-string/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
