@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0169-majority-element/) | Easy |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
