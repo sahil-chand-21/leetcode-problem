@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2235-add-two-integers/) | Easy |
@@ -152,4 +153,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0053-maximum-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
