@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3731-find-missing-elements](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-convert-the-temperature](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2469-convert-the-temperature/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3870-count-commas-in-range](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3870-count-commas-in-range/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
