@@ -167,4 +167,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0509-fibonacci-number/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
