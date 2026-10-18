@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0075-sort-colors/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0704-binary-search/) | Easy |
 ## Trie
