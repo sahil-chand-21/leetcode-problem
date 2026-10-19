@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/sahil-chand-21/leetcode-problem/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/sahil-chand-21/leetcode-problem/tree/main/0704-binary-search/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahil-chand-21/leetcode-problem/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
